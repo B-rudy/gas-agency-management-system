@@ -66,6 +66,6 @@ This repository includes the Application.xml, application.properties, and schema
 for reference. The full rules export (GasAgency_..._rules.jar, ~34 MB) and any 
 packaged ZIP builds are not committed here to keep the repository lightweight.
 
-**Available upon request** — reach out to any team member listed below and we'll 
+**Available upon request** — reach out to ME listed below and we'll 
 share the rules.jar / ZIP directly.
 
