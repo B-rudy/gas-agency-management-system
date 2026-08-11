@@ -8,9 +8,6 @@ A Pega-based case management application built for a fictional gas agency (GAM),
 - Nakul Sri Sai G
 - Hitesh Krishna M
 
-**Product Owner:** Mr. SatyaVeer Soma
-
----
 
 ## Overview
 
@@ -63,3 +60,12 @@ Pega Platform (App Studio), Case Management, Data Pages, Declare Expressions, Em
 ---
 
 *Academic project completed as part of Pega certification coursework.*
+## Pega Application Files
+
+This repository includes the Application.xml, application.properties, and schema jar 
+for reference. The full rules export (GasAgency_..._rules.jar, ~34 MB) and any 
+packaged ZIP builds are not committed here to keep the repository lightweight.
+
+**Available upon request** — reach out to any team member listed below and we'll 
+share the rules.jar / ZIP directly.
+
