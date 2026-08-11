@@ -1,5 +1,3 @@
-# gas-agency-management-system
-Pega-based case management application automating gas cylinder booking, connection transfer, and complaint handling
 # Gas Agency Management System (GasMS)
 
 A Pega-based case management application built for a fictional gas agency (GAM), automating cylinder booking, connection transfers, and complaint handling for consumers and agency managers.
